@@ -3,3 +3,6 @@
 	url = https://github.com/adpad-13/Sticky-Notes
 	branch = main
 
+[submodule "Wordle"]
+	path = Wordle
+	url = https://github.com/adpad-13/Wordle.git
