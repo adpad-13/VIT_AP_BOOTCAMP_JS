@@ -2,3 +2,9 @@
 	path = stickyNotes/Sticky-Notes
 	url = https://github.com/adpad-13/Sticky-Notes
 	branch = main
+[submodule "Wordle-game"]
+	path = Wordle-game
+	url = https://github.com/adpad-13/Wordle-game.git
+[submodule "Wordle"]
+	path = Wordle
+	url = https://github.com/adpad-13/Wordle-game.git
