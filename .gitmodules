@@ -1,3 +1,4 @@
 [submodule "stickyNotes/Sticky-Notes"]
 	path = stickyNotes/Sticky-Notes
 	url = https://github.com/adpad-13/Sticky-Notes
+	branch = main
