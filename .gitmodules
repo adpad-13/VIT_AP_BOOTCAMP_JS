@@ -6,6 +6,6 @@
 [submodule "Wordle"]
 	path = Wordle
 	url = https://github.com/adpad-13/Wordle.git
-[submodule "CurrencyConvertor"]
-	path = CurrencyConvertor
+[submodule "CurrencyConverter"]
+	path = CurrencyConverter
 	url = https://github.com/adpad-13/CurrencyConvertor.git
